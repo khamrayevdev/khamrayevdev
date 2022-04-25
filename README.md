@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/seu-usuario">
     <img
-      align="left"
+      align="center"
       height="135em"
       src="https://github-readme-stats.vercel.app/api?username=khamrayevdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />

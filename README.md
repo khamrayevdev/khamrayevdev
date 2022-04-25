@@ -1,24 +1,5 @@
 <h1 align='center'>Hey there, I'm Khamrayev <img src="https://github.com/khamrayevdev/khamrayevdev/raw/main/waving-hand.gif" width="25"></h1>
-<hr>
 
-<p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img
-      align="center"
-      height="135em"
-      src="https://github-readme-stats.vercel.app/api?username=khamrayevdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/seu-usuario">
-    <img
-      align="center"
-      height="135em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamrayevdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
-<hr>
-<p>
 <h3 align='center'>🛠 Tech Stack</h3>
 
   <p align="center">
